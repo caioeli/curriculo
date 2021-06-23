@@ -1,0 +1,62 @@
+body{
+    background-color: #3277AC;
+}
+
+h1{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+
+form{
+    width: 550px;
+    height: 450px;
+    margin: auto;
+    padding-left: 20px;
+    padding-top: 30px;
+    background-color:#27465E;
+    border-radius: 15px;
+}
+
+.botao{
+    background-color: green;
+    font-size: 20px;
+    text-align: center;
+   
+}
+
+#nome{
+    width: 455px;
+    height: 17px;
+    text-align:center;
+}
+
+#idade{
+    width: 50px;
+    height: 20px;
+    text-align:center;
+}
+
+#contato{
+    width: 443px;
+    height: 50px;
+    text-align:center;
+}
+
+#formacao{
+    width: 430px;
+    height: 50px;
+    text-align:center;
+}
+
+#objetivo{
+    width: 440px;
+    height: 50px;
+    text-align:center;
+}
+
+#experiencia{
+    width: 420px;
+    height: 50px;
+    text-align:center;
+} 
